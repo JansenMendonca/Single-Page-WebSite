@@ -1,0 +1,104 @@
+*{
+	margin:0;
+	padding: 0;
+}
+
+body{
+	background: #F5ECCE;
+}
+
+footer{
+	background: #666666;
+	width: 100%;
+	height:20px;
+	margin-bottom: 0;
+}
+
+#header{
+	background: #666666;
+	width: 100%;
+	height: 100px;
+	margin: auto;
+	top: 0;
+}
+
+#s-1{
+	background: #FBF8EF;
+	width: 70%;
+	margin: 55px auto 10px auto;
+	
+}
+
+#s-2{
+	background: #FBF8EF;
+	width: 70%;
+	margin: 55px auto 10px auto;
+	
+}
+
+#s-3{
+	background: #FBF8EF;
+	width: 70%;
+	margin: 55px auto 10px auto;
+	
+}
+
+#s-4{
+	background: #FBF8EF;
+	width: 70%;
+	margin: 55px auto 10px auto;
+	
+}
+#chevron{
+	color: #848484;
+	display: block;
+	width: 20px;
+}
+
+.menu{
+	color: #DBA901;
+	float: right;
+	font-size: 20px;
+	padding: 35px 15px 35px 15px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-decoration: none;
+	
+}
+
+.logo{
+	height: 100px;
+	float: left;
+
+}
+
+.img-1{
+	width: 100%;
+	
+}
+
+.img-pack{
+	margin:50px;
+}
+
+p{
+	color: #848484;
+	text-align: center;
+	padding: 20px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+h2{
+	color: #848484;
+	text-align: center;
+	padding: 20px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+
+a:hover{
+	color: #FE9A2E; 
+
+}
+
+
+
